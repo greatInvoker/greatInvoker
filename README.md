@@ -8,3 +8,8 @@
 ---
 ## 🌱 His Technology stack
 > Learn from yesterday, live for today, hope for tomorrow.
+---
+## 🌱 Currently Learnings
+>[GraphQL](https://graphql.cn/)
+
+>[RelayJs](https://github.com/relayjs)
