@@ -1,4 +1,4 @@
-## 👋 Hi~ This is a Selef-Introduction about Great_Invoker 
+## 👋 Hi~ This is a Self-Introduction about Great_Invoker 
 ---
 ## 👀 Why is Great_Invoker?
     Invoker(Carl) is classic game character in Dota, not about program API, even if it looks like it. 
