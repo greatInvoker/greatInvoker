@@ -13,9 +13,9 @@
 
 <h2>👀 Why is greatInvoker?</h2>
 <p>
-    Invoker(Carl) is classic game character in Dota, not about program API, even if it looks like it.
-    I love a great Dota gamer when i was young, his name is Ferrari_430. He has a famouse nickname Pianist_Carl.
-    So a hot-blooded young boy started useing this name, and longing to be as grace and powerful as he is, and express it in code.
+    Invoker (Carl) is a classic game character in Dota, and it is related to program interfaces at the same time.
+    When I was young, I liked a very skilled pub - star player in Dota whose name was Ferrari_430. He had a well - known nickname, "Pianist Carl", which was really cool!
+    So, a passionate young boy started using this name, longing to be as graceful and powerful as Invoker, and attempted to incorporate such grace and power into the code.
 </p>
 <!-- 贡献图 -->
 <div>
