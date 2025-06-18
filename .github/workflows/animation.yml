@@ -19,9 +19,6 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman.svg
-            dist/pacman-dark.svg
 
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
