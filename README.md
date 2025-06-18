@@ -2,9 +2,12 @@
     <img width="50" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" />
     Hi~ This is greatInvoker~ Nice to meet you!!!
 </h1>
-<div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=greatInvoker&radius=16&theme=react&area=true&order=5" alt="activity-graph graph" />
-</div>
+<!-- 吃豆人 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/greatInvoker/greatInvoker/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/greatInvoker/greatInvoker/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/greatInvoker/greatInvoker/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -14,10 +17,15 @@
     I love a great Dota gamer when i was young, his name is Ferrari_430. He has a famouse nickname Pianist_Carl.
     So a hot-blooded young boy started useing this name, and longing to be as grace and powerful as he is, and express it in code.
 </p>
+<!-- 贡献图 -->
+<div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=greatInvoker&radius=16&theme=react&area=true&order=5" alt="activity-graph graph" />
+</div>
 
 ---
 
 <h2>🌱 Technology Stack</h2>
+<!-- fontend -->
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
     <img width="10" />
@@ -42,6 +50,7 @@
 
 ###
 
+<!-- backend -->
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
     <img width="10" />
@@ -60,6 +69,7 @@
 
 ###
 
+<!-- CICD -->
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
     <img width="10" />
@@ -83,16 +93,9 @@
 ---
 
 <h2>🏆 Honor Wall <img align="right" src="https://profile-counter.glitch.me/greatInvoker/count.svg"/></h2>
+<!-- 贪吃蛇 -->
+<img src="https://raw.githubusercontent.com/greatInvoker/greatInvoker/output/snake.svg" alt="Snake animation" />
+<!-- 奖杯墙 -->
 <div>
   <img height="150" src="https://github-profile-trophy.vercel.app?username=greatInvoker&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="trophy graph"  />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/greatInvoker/greatInvoker/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/greatInvoker/greatInvoker/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/greatInvoker/greatInvoker/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/greatInvoker/greatInvoker/output/snake.svg" alt="Snake animation" />
