@@ -1,4 +1,4 @@
-name: Generate snake and pacman animations
+name: Generate pacman and snake animations
 
 on:
   schedule:
@@ -19,14 +19,17 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman.svg
+            dist/pacman-dark.svg
 
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Push both SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
