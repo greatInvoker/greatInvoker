@@ -93,9 +93,9 @@
 ---
 
 <h2>🏆 Honor Wall <img align="right" src="https://profile-counter.glitch.me/greatInvoker/count.svg"/></h2>
-<!-- 贪吃蛇 -->
-<img src="https://raw.githubusercontent.com/greatInvoker/greatInvoker/output/snake.svg" alt="Snake animation" />
 <!-- 奖杯墙 -->
 <div>
   <img height="150" src="https://github-profile-trophy.vercel.app?username=greatInvoker&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="trophy graph"  />
 </div>
+<!-- 贪吃蛇 -->
+<img src="https://raw.githubusercontent.com/greatInvoker/greatInvoker/output/snake.svg" alt="Snake animation" />
