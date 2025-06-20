@@ -93,7 +93,6 @@
 ---
 
 <h2>🏆 Honor Wall <img align="right" src="https://profile-counter.glitch.me/greatInvoker/count.svg"/></h2>
-
 <!-- 贪吃蛇 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/greatInvoker/greatInvoker/output/snake-dark.svg" />
