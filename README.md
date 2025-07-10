@@ -102,6 +102,6 @@
 <!-- 奖杯墙 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app?username=greatInvoker&theme=dark_lover&column=-1&margin-w=8&no-bg=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app?username=greatInvoker&theme=flat&column=-1&margin-w=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app?username=greatInvoker&theme=flat&column=-1&margin-w=8&no-bg=true" />
     <img src="https://github-profile-trophy.vercel.app?username=greatInvoker&theme=dark_lover&column=-1&margin-w=8&no-bg=true" alt="trophy"  />
 </picture>
